@@ -6,4 +6,5 @@ test ssh
 test change 凭据 can git https？
 delete 凭据
 ..？没有自动生成凭据
-imu pub
+imu pub 
+imu ssh * 2
