@@ -9,3 +9,4 @@ delete 凭据
 imu pub 
 imu ssh * 2
 imu
+imu ssh ssh
