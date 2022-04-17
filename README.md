@@ -4,13 +4,4 @@ Just for LiXiang data
 test windows 2
 test ssh
 test change 凭据 can git https？
-
-
-imu pub 
-imu ssh * 2
-imu
-imu ssh ssh
-imu sssssshhh
-branch test
-now branch main
-,testt
+test from now pub；
